@@ -1,0 +1,1 @@
+Looking to add decryption of files of WD My Book 3.0TB with an ASmedia ASM1051W chip on its USB/Data bridge PCB utilizing the existing reallymine program.  I have my doubts whether I will be capable of doing this, as I've never programmed in GO and my experience with decryption is rather minor. Time will tell (today is September 18, 2022)
